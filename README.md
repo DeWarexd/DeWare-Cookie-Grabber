@@ -1,4 +1,4 @@
-# 🔊 DeWare .roblosecuity Grabber
+# DeWare .roblosecuity Grabber
 
 a python code that grabs the .roblosecurity and sends it to your discord webhook
 
